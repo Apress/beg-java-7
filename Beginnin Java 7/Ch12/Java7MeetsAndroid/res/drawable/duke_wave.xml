@@ -1,0 +1,14 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+                android:oneshot="true">
+   <item android:drawable="@drawable/duke0" android:duration="100" />
+   <item android:drawable="@drawable/duke1" android:duration="100" />
+   <item android:drawable="@drawable/duke2" android:duration="100" />
+   <item android:drawable="@drawable/duke3" android:duration="100" />
+   <item android:drawable="@drawable/duke4" android:duration="100" />
+   <item android:drawable="@drawable/duke5" android:duration="100" />
+   <item android:drawable="@drawable/duke6" android:duration="100" />
+   <item android:drawable="@drawable/duke7" android:duration="100" />
+   <item android:drawable="@drawable/duke8" android:duration="100" />
+   <item android:drawable="@drawable/duke9" android:duration="100" />
+   <item android:drawable="@drawable/duke0" android:duration="100" />
+</animation-list>
